@@ -1,1 +1,3 @@
-# Daily-Coding
+> Data Structures 
+
+> Algorithms
