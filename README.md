@@ -1,3 +1,4 @@
 > Data Structures 
 
-> Algorithms
+> Algorithm
+> Errors
