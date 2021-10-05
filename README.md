@@ -1,3 +1,3 @@
 > Data Structures 
 
-> Algorithm
+> Algorithms
