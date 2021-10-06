@@ -6,6 +6,4 @@
 <a href="https://github.com/vamshipv/Daily-Coding/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vamshipv/Daily-Coding" />
 </a>
-<a href="https://github.com/siddsy/Daily-Coding/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=siddsy/Daily-Coding" />
-</a>
+
