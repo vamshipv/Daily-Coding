@@ -18,7 +18,7 @@ def printLst(lst):
     for i in lst:
         print(i)
 
-lst = [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1]
+lst = [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1,0,1,2,1,0,0,0]
 length = len(lst)
 lst = sorting(lst, length)
 printLst(lst)
